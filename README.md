@@ -2,7 +2,7 @@
 ## Database Laravel
 - Create database name with "laravel_api".
 
- **Note**: You can skip below step as empty database will nbe create in next step using command. 
+ **Note**: You can skip below step as empty database will be create in next step using command. 
  -  Check root folder inside "laravel_api.sql" Database. Import in phpmyadmin.
 
 ## Installation Laravel
